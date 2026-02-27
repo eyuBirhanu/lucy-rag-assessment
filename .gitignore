@@ -1,0 +1,14 @@
+# Environments
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables (Crucial for security!)
+.env
+
+# User data
+sessions/
+uploads/
+
+# OS generated files
+.DS_Store
