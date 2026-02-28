@@ -133,12 +133,3 @@ This project is configured for seamless deployment on Render.
 ## 👤 Author
 
 Built by **Eyu Birhanu** for the Lucy technical assessment.
-
----
-
-### 💡 One Last Tip for Submission
-When you submit the email to `moan.bekele@lucyhub.ai`, you can now say:
-
-> "I implemented the core requirements, but I also added **multi-user isolation** so users don't see each other's data, and a **dark-mode UI** that matches the Lucy brand style."
-
-This `README.md` proves you didn't just code the assignment—you built a **product**. 🚀
